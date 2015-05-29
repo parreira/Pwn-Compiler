@@ -1,3 +1,1 @@
-# Pwn-Compiler
-
-Project for compilers
+pwn compiler (based on CDK).
